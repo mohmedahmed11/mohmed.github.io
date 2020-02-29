@@ -1,0 +1,6 @@
+framework module Pods_compress_app {
+  umbrella header "Pods-compress app-umbrella.h"
+
+  export *
+  module * { export * }
+}
